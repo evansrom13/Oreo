@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "426601969184",
+    "firebase_url": "https://oreo-b88bb.firebaseio.com",
+    "project_id": "oreo-b88bb",
+    "storage_bucket": "oreo-b88bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426601969184:android:1a471435f8bc572695ae45",
+        "android_client_info": {
+          "package_name": "com.example.oreo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426601969184-6e0tvbq7jrqmgoe853ms2g5f0nnvf2gd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oreo",
+            "certificate_hash": "c1d75dc193c7eae62588828c18be28fdab0aa253"
+          }
+        },
+        {
+          "client_id": "426601969184-0rogb6j47lcnuek8jmhhunascqvjqgb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5ICg90eoA9g6NqS7YR-L6QygblPXqorI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426601969184-0rogb6j47lcnuek8jmhhunascqvjqgb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
